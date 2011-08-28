@@ -14,3 +14,14 @@
 
 tmp/
 log/
+
+grails/
+groovy/
+gsp/
+java/
+objc/
+php/
+po/
+python/
+xslt/
+zend/
